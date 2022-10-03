@@ -2,11 +2,11 @@ const switchOn = document.getElementById("on");
 const switchOff = document.getElementById("off");
 
 switchOn.addEventListener("click",function(){
-             document.getElementById("img").src="css/images/on.png";
+             document.getElementById("img").src="src/css/images/on.png";
       
  })
 
  switchOff.addEventListener("click",function(){
-     document.getElementById("img").src="css/images/off.png";
+     document.getElementById("img").src="src/css/images/off.png";
 
  })

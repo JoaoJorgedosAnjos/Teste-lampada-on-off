@@ -1,14 +1,3 @@
-//  function alterarImagem(){
-//      let btnTurnOn = document.getElementsByClassName("on");
- 
-//     let lampadaOff = btnTurnOn[0]
-    
-
-//      lampadaOff.setAttribute("src","css/images/on.png")
-     
-//  }
-
-
 const switchOn = document.getElementById("on");
 const switchOff = document.getElementById("off");
 
